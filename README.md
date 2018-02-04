@@ -7,4 +7,9 @@ Example functions on how to call the Wunderlist API in Python 3.6.
 4. Go to the [Wunderlist site](https://www.wunderlist.com/), open your list and make a note of the integer at the end of the URL. e.g. https://www.wunderlist.com/#/lists/123456789 - this is the list ID.
 5. Download or clone the [Wunderlist.py](Wunderlist.py) file and open it in your Python editor.
 6. Input your access_token, client_id and list_id to the head of the file.
+```
+  access_token = 'xxx'
+  client_id = 'xxx'
+  list_id = 123456789
+```
 7. Run the example functions at the bottom of the document. 
